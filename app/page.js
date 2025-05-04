@@ -22,7 +22,7 @@ export default function Home() {
   const premiosReclamados = {
     1: false,
     2: false,
-    3: false,  // Reclamado
+    3: true,  // Reclamado
     4: false,
     5: false,  // Reclamado
     6: false,
